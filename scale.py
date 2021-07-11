@@ -2,6 +2,7 @@
 
 import logging
 from tuya_iot import *
+from sthope import *
 from env import *
 import json
 
@@ -43,3 +44,5 @@ def create_fake_report():
     y = json.dumps(x)
     z = json.loads(y)
     print(z)
+
+get_scale_records()
