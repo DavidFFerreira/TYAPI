@@ -1,5 +1,5 @@
 
-sthope*.py
+sthope*
 *.pyc
 mqtt*.py
 scale.py
