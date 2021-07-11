@@ -2,7 +2,7 @@
 
 import logging
 from tuya_iot import *
-from sthope import *
+from sthope_env import *
 from env import *
 import json
 

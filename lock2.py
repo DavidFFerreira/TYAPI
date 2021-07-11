@@ -2,28 +2,15 @@
 
 import json
 import logging
+
 from Crypto.Util import Padding
 from tuya_iot import *
-from sthope_envs import *
-import paho.mqtt.client as mqtt
+from sthope_env import *
+
 from Crypto.Util.Padding import pad, unpad
 from Crypto.Cipher import AES
 
 BLOCK_SIZE = 16
-
-## Connect to MQTT Broker
-def connect_mqtt():
-    def on_connect(client, userdata, flags, rc):
-        if rc == 0:
-            print("Connected to MQTT Broker!")
-        else:
-            print("Failed to connect, return code %d\n", rc)
-
-    client = mqtt.Client(MQTT_CLIENT_ID)
-    client.username_pw_set(MQTT_USERNAME, MQTT_PASSWORD)
-    client.on_connect = on_connect
-    client.connect(MQTT_BROKER, MQTT_PORT)
-    return client
 
 ## Init
 openapi = TuyaOpenAPI(ENDPOINT, ACCESS_ID, ACCESS_KEY)
@@ -63,18 +50,3 @@ def get_mqtt_access():
         'link_type': 'mqtt',
         'topics': 'device',
         })
-
-def subscribe(client: mqtt):
-    def on_message(client, userdata, msg):
-        print(f"Received `{msg.payload.decode()}` from `{msg.topic}` topic")
-
-    client.subscribe(MQTT_TOPIC)
-    client.on_message = on_message
-
-def run():
-    client = connect_mqtt()
-    subscribe(client)
-    client.loop_forever()
-
-if __name__ == '__main__':
-    run()
