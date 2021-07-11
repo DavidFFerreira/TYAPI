@@ -2,3 +2,4 @@
 sthope*.py
 *.pyc
 mqtt*.py
+scale.py

@@ -22,11 +22,11 @@ openapi.login(USERNAME, PASSWORD, COUNTRY_CODE, SCHEMA)
 # Turn ON Debug Log
 #tuya_logger.setLevel(logging.DEBUG)
 
-def get_scale_records():
-    x = openapi.get('/v1.0/scales/' + WIFI_SCALE + '/datas/history?device_id=' + WIFI_SCALE + '&page_no=' + PAGE_NO + '&page_size=' + PAGE_SIZE + '&user_id=' + SCALE_USER_ID)
-    y = json.dumps(x)
-    z = json.loads(y)
-    print(z["result"]["records"])
+# def get_scale_records():
+#     x = openapi.get('/v1.0/scales/' + WIFI_SCALE + '/datas/history?device_id=' + WIFI_SCALE + '&page_no=' + PAGE_NO + '&page_size=' + PAGE_SIZE + '&user_id=' + SCALE_USER_ID)
+#     y = json.dumps(x)
+#     z = json.loads(y)
+#     print(z["result"]["records"])
 
 def get_all_scale_records():
     x = openapi.get('/v1.0/scales/' + WIFI_SCALE + '/datas/history?device_id=' + WIFI_SCALE + '&page_no=' + PAGE_NO + '&page_size=' + PAGE_SIZE)
