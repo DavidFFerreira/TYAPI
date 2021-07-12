@@ -20,9 +20,16 @@ def on_message(client, userdata, msg):
       y = json.dumps(x)
       client.publish(WIFI_SCALE_TOPIC_STATUS, y)
 
+  if msg.topic == WIFI_SCALE_TOPIC_CMD and msg.payload.decode() == "list_users":
+      x = openapi.get('/v1.0/devices/' + WIFI_SCALE + '/users')
+      xyz = json.dumps(x)
+      client.publish(WIFI_SCALE_TOPIC_STATUS, xyz)
+
   if msg.topic == WIFI_SCALE_TOPIC_CMD and msg.payload.decode() == "all_records":
-      x = openapi.get('/v1.0/scales/' + WIFI_SCALE + '/datas/history?device_id=' + WIFI_SCALE + '&page_no=' + PAGE_NO + '&page_size=' + PAGE_SIZE + '&user_id=' + SCALE_USER_ID)
+      x = openapi.get('/v1.0/scales/' + WIFI_SCALE + '/datas/history?device_id=' + WIFI_SCALE + '&page_no=' + PAGE_NO + '&page_size=' + PAGE_SIZE)
       y = json.dumps(x)
+      z = json.loads(y)
+      xyz = (z['result']['records'])
       client.publish(WIFI_SCALE_TOPIC_STATUS, y)
 
   if msg.topic == WIFI_SCALE_TOPIC_CMD and msg.payload.decode() == "fake_report":
