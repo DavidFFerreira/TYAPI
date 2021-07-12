@@ -1,0 +1,19 @@
+    platform: mqtt
+    name: "Scale User: Sthope"
+    state_topic: "WiFi_Scale/state"
+    icon: "mdi:scale-bathroom"
+    value_template: "{{ value_json.result.records.1.wegith }}"
+    availability:
+      - topic: "WiFi_Scale/lwt"
+    payload_available: "online"
+    payload_not_available: "offline"
+    unique_id: '371783835002916e1801_sthope'
+    device:
+      connections: [[mac,'371783835002916e1801']]
+      manufacturer: "TYAPI"
+      model: "WiFi Scale"
+      name: "WiFi Scale"
+
+
+    json_attributes_topic: "WiFi_Scale/state"
+    json_attributes_template: "{{ value_json.result.records.1 | tojson }}"
