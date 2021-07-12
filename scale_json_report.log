@@ -1,0 +1,548 @@
+[
+  {
+    "body_r": "683",
+    "create_time": 1605394834687,
+    "device_id": "device_uuid",
+    "id": "160539AAW0GRzYh32sjbWWX2UAAC4834687",
+    "nick_name": "unknown",
+    "user_id": "0",
+    "wegith": "53.6"
+  },
+  {
+    "body_r": "683",
+    "create_time": 1605394825446,
+    "device_id": "device_uuid",
+    "id": "160539AAW0GRxLhCasjbWWX2UAAB4825446",
+    "nick_name": "unknown",
+    "user_id": "0",
+    "wegith": "53.6"
+  },
+  {
+    "body_r": "685",
+    "create_time": 1605394809300,
+    "device_id": "device_uuid",
+    "id": "160539AAW0GRtVJFWsjbWWX2UAAA4809300",
+    "nick_name": "unknown",
+    "user_id": "0",
+    "wegith": "54.5"
+  },
+  {
+    "body_r": "686",
+    "create_time": 1602956954088,
+    "device_id": "device_uuid",
+    "id": "1602950005b1e17fd6b1372ff6e50d232000006954088",
+    "nick_name": "unknown",
+    "user_id": "0",
+    "wegith": "55.3"
+  },
+  {
+    "body_r": "707",
+    "create_time": 1596985040728,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596980005ac730e106b3093241d03451600005040728",
+    "nick_name": "Pat Soares",
+    "user_id": "0000002yt6",
+    "wegith": "68.5"
+  },
+  {
+    "body_r": "709",
+    "create_time": 1593697182306,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1593690005a9758a6e499f932427193b6700007182306",
+    "nick_name": "Pat Soares",
+    "user_id": "0000002yt6",
+    "wegith": "70.2"
+  },
+  {
+    "body_r": "617",
+    "create_time": 1597745473221,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597740005ad241b5f70b560f3f80579b200005473221",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.4"
+  },
+  {
+    "body_r": "617",
+    "create_time": 1597745456049,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597740005ad241a596847367f58017b6500015456049",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.1"
+  },
+  {
+    "body_r": "617",
+    "create_time": 1597051224428,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597050005ac8276eb8ad124ccdc127e9a00001224428",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "10.9"
+  },
+  {
+    "body_r": "618",
+    "create_time": 1596971988129,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596970005ac70041190155dc8b614280100001988129",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "12"
+  },
+  {
+    "body_r": "619",
+    "create_time": 1596822738471,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596820005ac4d4418842016a88917785e00012738471",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "12.2"
+  },
+  {
+    "body_r": "619",
+    "create_time": 1596615923098,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596610005ac1d1cf05ffec5497b0975e900005923098",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "12.2"
+  },
+  {
+    "body_r": "619",
+    "create_time": 1596615382735,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596610005ac1cfcbb13a560f33211732d00005382735",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "12.2"
+  },
+  {
+    "body_r": "618",
+    "create_time": 1596475882675,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596470005abfc81e1166894c03912434a00005882675",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.8"
+  },
+  {
+    "body_r": "618",
+    "create_time": 1596449683167,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596440005abf6684453f624cc800c424800009683167",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.7"
+  },
+  {
+    "body_r": "618",
+    "create_time": 1596449647562,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596440005abf66625089bf7bcd9042ca800019647562",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.7"
+  },
+  {
+    "body_r": "619",
+    "create_time": 1596275567128,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1596270005abcdde246b2c4a8ba40855ab00005567128",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "12.4"
+  },
+  {
+    "body_r": "618",
+    "create_time": 1595013705014,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1595010005aaa8114c94005fd35a074def00013705014",
+    "nick_name": "Susy",
+    "user_id": "0000002yt7",
+    "wegith": "11.9"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1597745440158,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1597740005ad241966ea81367f58017b6500005440158",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.1"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1597399097528,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1597390005acd375c5ca4d4a8b7d14181100009097528",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.3"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1597399011765,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1597390005acd370a9250816a848091a1f00009011765",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.3"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1597398967517,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1597390005acd36e05fd325e7baa0a1f3200008967517",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.3"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1597051329534,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1597050005ac827d2f52f07720a41942bd00001329534",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.9"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1596985157770,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1596980005ac73150a56fe2764681f2b8f00005157770",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.7"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1596822730518,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1596820005ac4d439f2afb16a88917785e00002730518",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.6"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1596449636419,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1596440005abf6657b0111f7bcd9042ca800009636419",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.4"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1596405524208,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1596400005abec203016a260f3520f6e7d00005524208",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "58.1"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1596275545509,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1596270005abcddcda899c5a7acf15528900005545509",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.2"
+  },
+  {
+    "body_r": "688",
+    "create_time": 1595762884403,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595760005ab567fded93c5a7a1409062c00002884403",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57"
+  },
+  {
+    "body_r": "688",
+    "create_time": 1595755282653,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595750005ab54bac55a8bf7bc3c1e3b7700005282653",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1595599063818,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595590005ab305b6717f6fb9e9616675100009063818",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.3"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1595438738456,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595430005ab0b07443868fb9e130a6a5300008738456",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.5"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1595438725750,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595430005ab0b068257012ff6f1124b0900008725750",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.5"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1595347754765,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595340005aaf5d83745a824cc1f1b313b00007754765",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.7"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1595240342315,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1595240005aadcd5ef5ae783107f1c6b5900000342315",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.6"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1594996918425,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1594990005aaa428bd8f1d5a7a22197d7700006918425",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "58.1"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1594713233617,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1594710005aa621bceee0bf073ee1514bb00003233617",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.3"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1594675986569,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1594670005aa596fb613c4b08223183e6e00005986569",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "58"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1594555871491,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1594550005aa3d784b6ef760f326045d6000005871491",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "57.2"
+  },
+  {
+    "body_r": "688",
+    "create_time": 1593763213925,
+    "device_id": "device_uuid",
+    "height": "171",
+    "id": "1593760005a984ea38d61cc549270a209b00003213925",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "56.8"
+  },
+  {
+    "body_r": "691",
+    "create_time": 1593691751308,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1593690005a97446b7d8c524cc7a09543500001751308",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "58.4"
+  },
+  {
+    "body_r": "691",
+    "create_time": 1593691733579,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1593690005a97445a951615e7b1610090800001733579",
+    "nick_name": "sthope",
+    "user_id": "0000002zlb",
+    "wegith": "58.4"
+  },
+  {
+    "body_r": "697",
+    "create_time": 1626003933659,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "162600AAXG14regcYAH0fIYEQAAA3933659",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "62.4"
+  },
+  {
+    "body_r": "696",
+    "create_time": 1626003893196,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "162600AAXG14h1FyKe9BnbmYKYAAA3893196",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "61.9"
+  },
+  {
+    "body_r": "692",
+    "create_time": 1601039872396,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1601030005b02324dd865493243c110e9f00009872396",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "59"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1599411229592,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1599410005aea7f2308467367f4a0079b600001229592",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "57.2"
+  },
+  {
+    "body_r": "688",
+    "create_time": 1599397513999,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1599390005aea4c0ad3001e39a620661ab00007513999",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "56.9"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1598454357715,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1598450005adc9282e6335ab541d0729e300004357715",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "58.1"
+  },
+  {
+    "body_r": "691",
+    "create_time": 1598022647440,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1598020005ad64a43e5f53f7bc66183bae00002647440",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "58.4"
+  },
+  {
+    "body_r": "689",
+    "create_time": 1597841134743,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597840005ad3a613e676116a80a007c6000001134743",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "57.6"
+  },
+  {
+    "body_r": "690",
+    "create_time": 1597839791334,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597830005ad3a112b9d6c367f7002654500009791334",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "58"
+  },
+  {
+    "body_r": "693",
+    "create_time": 1597839471931,
+    "device_id": "device_uuid",
+    "height": "170",
+    "id": "1597830005ad39fe21e9c0367fea0a2a6200009471931",
+    "nick_name": "sthope",
+    "user_id": "0000003qk0",
+    "wegith": "59.9"
+  },
+  {
+    "body_r": "662",
+    "create_time": 1601040078059,
+    "device_id": "device_uuid",
+    "height": "150",
+    "id": "1601040005b023311fb2fe16a87f1e487800000078059",
+    "nick_name": "Renato",
+    "user_id": "0000004dvl",
+    "wegith": "39.9"
+  },
+  {
+    "body_r": "664",
+    "create_time": 1601039981527,
+    "device_id": "device_uuid",
+    "height": "150",
+    "id": "1601030005b0232b5eba8b2764e00029de00009981527",
+    "nick_name": "Renato",
+    "user_id": "0000004dvl",
+    "wegith": "41.4"
+  },
+  {
+    "body_r": "664",
+    "create_time": 1601039827717,
+    "device_id": "device_uuid",
+    "height": "150",
+    "id": "1601030005b0232233c5c25e7bf5003e3500009827717",
+    "nick_name": "Renato",
+    "user_id": "0000004dvl",
+    "wegith": "41.4"
+  }
+]

@@ -7,9 +7,6 @@ import json
 from sthope_env import *
 from tuya_iot import *
 
-
-HA_DISCOVERY = "true"
-
 def on_connect(client, userdata, flags, rc):
     client.subscribe(WIFI_SCALE_TOPIC + "/#")
     client.publish(WIFI_SCALE_TOPIC_LWT, "Online")
