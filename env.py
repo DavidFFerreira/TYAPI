@@ -3,12 +3,12 @@
 #######################################################
 #### Tuya Region Urls #################################
 #######################################################
-AMERICA = https://openapi.tuyaus.com
-CHINA = https://openapi.tuyacn.com
-EUROPE = https://openapi.tuyaeu.com
-INDIA = https://openapi.tuyain.com
-EASTERNAMERICA = https://openapi-ueaz.tuyaus.com
-WESTERNEUROPE = https://openapi-weaz.tuyaeu.com
+AMERICA = "https://openapi.tuyaus.com"
+CHINA = "https://openapi.tuyacn.com"
+EUROPE = "https://openapi.tuyaeu.com"
+INDIA = "https://openapi.tuyain.com"
+EASTERNAMERICA = "https://openapi-ueaz.tuyaus.com"
+WESTERNEUROPE = "https://openapi-weaz.tuyaeu.com"
 #######################################################
 #### iot.tuya.com #####################################
 #######################################################
