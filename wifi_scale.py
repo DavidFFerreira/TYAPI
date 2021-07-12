@@ -9,9 +9,10 @@ from tuya_iot import *
 
 def on_connect(client, userdata, flags, rc):
     client.subscribe(WIFI_SCALE_TOPIC + "/#")
-    client.publish(WIFI_SCALE_TOPIC_LWT, "Online")
     if HA_DISCOVERY == "true":
         client.publish(HA_DISCOVERY_TOPIC, HA_DISCOVERY_MSG, qos=0, retain=True )
+    client.publish(WIFI_SCALE_TOPIC_LWT, "online")
+
 
 def on_message(client, userdata, msg):
 
