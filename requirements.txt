@@ -1,0 +1,2 @@
+tuya-iot-py-sdk
+paho-mqtt
